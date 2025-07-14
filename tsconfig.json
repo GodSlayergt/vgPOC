@@ -5,6 +5,12 @@
   "references": [
     {
       "path": "./apps/vgPOCNative"
+    },
+    {
+      "path": "./libs/ui"
+    },
+    {
+      "path": "./apps/vgPOCWeb"
     }
   ]
 }
